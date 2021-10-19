@@ -1,0 +1,41 @@
+body{
+    font-family: 'Comfortaa';
+}
+header{
+    text-align: center;
+}
+main{
+    margin: 2% 20% 1%;
+}
+
+.caixaNome{
+    background-color: #CCCCCC;
+    padding: 1%;
+    font-size: 24px;
+    
+}
+.conteudoPrincipal{
+    text-align: center;
+    text-align: justify;
+    font-size: 20px;
+    padding:5px;
+}
+.linha{
+    margin-top: 10%;
+
+}
+/* -------------------conhecimentos-------------- */
+
+h2{
+    text-align: center;
+}
+.linguagens{
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+.barra{
+    width: 120px;
+    height: 25px;
+}
